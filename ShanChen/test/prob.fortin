@@ -1,0 +1,14 @@
+      
+      &fortin
+      
+      ! cell number
+      nx = 50
+      ny = 50
+      nz = 50
+      
+      !
+      nstep = 1000
+      plot_int = 100
+      
+
+      /
